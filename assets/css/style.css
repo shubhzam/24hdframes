@@ -230,7 +230,23 @@ h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/red2.jpeg") top center;
+  /* background-color: white; */
   background-size: cover;
+}
+
+#hehe{
+  margin-right: 5px!important;
+}
+
+.righter{
+text-align: right;
+padding-top: 50px;
+padding-right: 20px;
+}
+
+#holder{
+  height: 100%;
+  width: 100%;
 }
 
 #hero:before {
@@ -1092,3 +1108,24 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+
+/* div{
+  border: 1px solid rgb(0, 0, 0);
+  color: white;
+  margin: 3px;
+  padding: 4px;
+}
+
+section{
+  border: 1px solid rgb(0, 0, 0);
+  color: white;
+  margin: 3px;
+  padding: 4px;
+} */
